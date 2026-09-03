@@ -1,0 +1,16 @@
+lxml>=5.2
+neo4j>=5.22
+duckdb>=1.0
+pyarrow>=16.0
+pandas>=2.2
+streamlit>=1.37
+google-genai>=0.3
+python-dotenv>=1.0
+pydantic-settings>=2.3
+psutil>=6.0
+pytest>=8.2
+jupyter>=1.0
+nbconvert>=7.16
+nbformat>=5.10
+ipykernel>=6.29
+matplotlib>=3.9

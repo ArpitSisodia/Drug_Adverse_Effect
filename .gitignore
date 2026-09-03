@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/sample/
+data/staging/
+data/bulk_import/
+*.duckdb
+faers_xml_2026q2/
+owl_export/
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+.claude/
